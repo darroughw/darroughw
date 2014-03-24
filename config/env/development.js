@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/mean-dev',
+    db: "mongodb://keith:bacon@107.170.91.28:27017/darroughdev",
     app: {
         name: 'MEAN - A Modern Stack - Development'
     },
@@ -31,3 +31,5 @@ module.exports = {
         callbackURL: 'http://localhost:3000/auth/linkedin/callback'
     }
 };
+
+
